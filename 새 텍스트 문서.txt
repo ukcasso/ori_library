@@ -1,0 +1,9 @@
+// 번호 안바뀜
+// function deleteBook() {
+//     toNumTemp = Number(temp[temp.length - 1]);
+//     for(let i = toNumTemp; i <= localStorage.length; i++) {
+//         localStorage.setItem(i, localStorage.getItem(i + 1));
+//     }
+//     localStorage.removeItem(localStorage.length);
+//     location.reload();
+// };
